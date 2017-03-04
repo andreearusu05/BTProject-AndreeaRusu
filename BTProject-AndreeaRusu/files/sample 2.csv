@@ -1,0 +1,11 @@
+Hostname,IP Address,Patched?,OS Version,Notes
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+f.example.com,1.1.1.7,No,12.2,
+g.example.com,1.1.1.6,no,15,Guarded by sharks with lasers on their heads
+,,,,
+h.example.com,1.1.1.6,no,15,Guarded by sharks with lasers on their heads
