@@ -1,5 +1,6 @@
+WINDOWS:
 Compile the code:
-cd BTProject-AndreeaRusu;
+cd BTProject-AndreeaRusu
 javac -cp lib\junit-4.12.jar -d classes src\project\*.java src\testing\*java
 
 Run the code:
